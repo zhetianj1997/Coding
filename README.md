@@ -4,7 +4,7 @@
 Some support config, functions, and strucutres:
 
 Config:
-1. Option data type
+1. Optional data type
 2. TreeNoe
 3. ListNode
 
